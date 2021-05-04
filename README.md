@@ -1,4 +1,6 @@
-# introduction
+# c輪講
+
+## introduction
 
 このリポジトリは陸研C輪講です。
 Week1からWeek6まであります。
