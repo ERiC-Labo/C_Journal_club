@@ -9,8 +9,8 @@
 皆も卒業研究をしていくうちに気がついていくと思います。
 
 ## 一問目
-### ①
-#### number.hpp
+#### ①
+##### number.hpp
 ```
 #ifndef NUMBER_
 #define NUMBER_
@@ -33,8 +33,8 @@ private:
 あなたが入力した数字は num = 342 です。
 ```
 になるようにnumber.cppファイルを作成してみてください。
-### ①
-#### rikuken_number.hpp
+#### ②
+##### rikuken_number.hpp
 ```
 #ifndef NUMBER_
 #define NUMBER_
