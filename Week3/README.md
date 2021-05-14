@@ -9,6 +9,7 @@
 皆も卒業研究をしていくうちに気がついていくと思います。
 
 ## 一問目
+### ①
 #### number.hpp
 ```
 #ifndef NUMBER_
@@ -32,8 +33,33 @@ private:
 あなたが入力した数字は num = 342 です。
 ```
 になるようにnumber.cppファイルを作成してみてください。
+### ①
+#### rikuken_number.hpp
+```
+#ifndef NUMBER_
+#define NUMBER_
+#include <iostream>
 
-①クラス名Number_week3、入力するメンバ関数set(), 入力結果を表示するメンバ関数get(), メンバ変数はnumを使ってください。
+namespace rikuken {
+    class Number_week3
+    {
+    public:
+        void get();
+        void set();
+    private:
+        int num_;
+    };
+}
+#endif
+```
+実行結果が
+```
+数字を入力してください
+342
+あなたが入力した数字は num = 342 です。
+```
+になるようにrikuken_number.cppファイルを作成してみてください。
+
 
 ②名前空間rikuken,クラス名Number_week3、入力するメンバ関数set(), 入力結果を表示するメンバ関数get(), メンバ変数はnumを使ってください。
 
