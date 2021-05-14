@@ -37,7 +37,7 @@ int main(void)
     srand((unsigned int)time(NULL));
 
     std::cout << "行列１" << std::endl;
-    for (int i = 0; i < RAW_1; i++) {
+    for (int i = 0; i < RAW_1; i++) {//ここを関数化!!!
         std::vector<int> a1;
         for (int j = 0; j < COLUMN_1; j++) {
             int num_a1 = rand() % 10;
@@ -49,7 +49,7 @@ int main(void)
     }
 
     std::cout << "行列２" << std::endl;
-    for (int i = 0; i < RAW_2; i++) {
+    for (int i = 0; i < RAW_2; i++) {//ここを関数化!!!
         std::vector<int> a2;
         for (int j = 0; j < COLUMN_2; j++) {
             int num_a2 = rand() % 10;
@@ -70,7 +70,7 @@ int main(void)
     
 
     std::cout << "行列1 ×　行列2" << std::endl;
-    for (int i = 0; i < RAW_1; i++) {
+    for (int i = 0; i < RAW_1; i++) {//ここを関数化!!!
         for (int j = 0; j < COLUMN_2; j++) {
             for (int k = 0; k < RAW_2; k++) {
                 result_matrix[i][j] += matrix_1[i][k] * matrix_2[k][j];
