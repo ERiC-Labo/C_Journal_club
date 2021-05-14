@@ -9,6 +9,22 @@
 皆も卒業研究をしていくうちに気がついていくと思います。
 
 ## 一問目
+#### number.hpp
+```
+#ifndef NUMBER_
+#define NUMBER_
+#include <iostream>
+
+class Number_week3
+{
+public:
+    void get();
+    void set();
+private:
+    int num_;
+};
+#endif
+```
 実行ファイルが
 ```
 数字を入力してください
