@@ -4,6 +4,7 @@ C言語の基本的な知識で解けるような問題です。
 
 ##attention
 vector型を使いましょう！
+<p align="right"><a href="https://cpp-lang.sevendays-study.com/ex-day4.html">参考のウェブサイト(例)</a></p>
 
 ## 一問目
 (ユーザーが入力した数の)任意の行列を作成できるようにコーディングしてください。
