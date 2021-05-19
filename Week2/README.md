@@ -96,4 +96,5 @@ int main(void)
 
 掛け算結果：[[],[]]
 ```
+<p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week1">Week1</a></p>
 <p align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week3">Week3</a></p> 
