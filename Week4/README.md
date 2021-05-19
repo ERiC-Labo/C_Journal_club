@@ -16,3 +16,6 @@ Week3で作成したmatrixクラスを継承させて、imageクラスを作成�
 ## 四問目
 作成したクラスを用いて、二値化を行ってください。
 また、そのときにnew演算子とdelete演算子を使用して、メモリの効率化を行って下さい。
+
+<p><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week3">Week3</a></p>
+<p align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week5">Week5</a></p>
