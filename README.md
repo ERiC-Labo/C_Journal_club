@@ -12,5 +12,5 @@ c輪講の目的は皆に基礎的なプログラミングを**自力**でやっ
 
 また、コーディングにはユーザフレンドリー性を意識してください。
 
-<font size="5"> [Week1](https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week1)</font>
+<font size="1"> [Week1](https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week1)</font>
 
