@@ -11,6 +11,4 @@ c輪講の目的は皆に基礎的なプログラミングを**自力**でやっ
 勿論、C言語について調べるのはOKです。(例：配列の使い方を調べるとか)
 
 また、コーディングにはユーザフレンドリー性を意識してください。
-
-
-
+<div align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week1">Week1</a></div>
