@@ -12,6 +12,5 @@ c輪講の目的は皆に基礎的なプログラミングを**自力**でやっ
 
 また、コーディングにはユーザフレンドリー性を意識してください。
 
-<font size="7">45</font>
 
 <span style="font-size: 200%>sample text</span>
