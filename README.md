@@ -14,7 +14,7 @@ c輪講の目的は皆に基礎的なプログラミングを**自力**でやっ
 
 ## [Week1](https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week1)
 
-<div style="right">例）<a href="#">トップへ戻る</a></div>d
+<div align="right">例）<a href="#">トップへ戻る</a></div>d
 <div align="center">
 ｆｄｆ
 </div>
