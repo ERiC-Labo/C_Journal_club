@@ -24,4 +24,4 @@ vector型を使いましょう！
 
 一問目のソースコードを利用して、任意の行列に対して、行列の掛け算ができるようにコーディングしてください
 
-<div align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club">イントロダクション</a></div><div align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week2">Week2</a></div>
+<p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club">イントロダクション</a></p><p align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week2">Week2</a></p>
