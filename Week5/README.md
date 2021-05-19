@@ -10,4 +10,4 @@ opencvで画像の入出力をしてください。
 作成したら各処理の結果を出力してください。
 
 <p><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week4">Week4</a></p>
-<p><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week6">Week6</a></p>
+<p align="right"><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week6">Week6</a></p>
