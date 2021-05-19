@@ -6,4 +6,4 @@
 ## 一問目
 opencvを使用して、顔検出してください。
 
-<p><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week5">Week5</a></p>
+<p><a href="https://github.com/ERiC-Labo/C_Journal_club/tree/main/Week5">Week5のリンク</a></p>
