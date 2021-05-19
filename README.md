@@ -14,3 +14,4 @@ c輪講の目的は皆に基礎的なプログラミングを**自力**でやっ
 
 <font size="7">45</font>
 
+<span style="font-size: 200%>sample text</span>
