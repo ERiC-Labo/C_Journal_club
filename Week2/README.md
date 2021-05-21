@@ -19,7 +19,7 @@ a[2]=2
 ```
 ## 二問目
 Week1で作成したソースコードを関数を利用して見やすくしてください。ユーザフレンドリーに。vector型を使いましょう。
-<p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club/blob/main/Week2/vector_matrix.cpp">１週目のソースコード</a></p>
+<p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club/blob/main/Week2/vector_matrix.cpp">１週目のソースコード(vector_matrix.hpp)</a></p>
 
 ## 三問目
 二問目の実行結果をテキストファイルに出力して下さい。
