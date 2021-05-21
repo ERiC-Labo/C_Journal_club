@@ -2,6 +2,7 @@
 # クラス(継承・ポリモーフィズム)
 今週は、クラスを引き続き学習していきます。
 主に、継承・ポリモーフィズムについて見ていきます。
+<p align="center"><a href="http://cpp-lang.sevendays-study.com/day6.html">参考ページ(継承)</a></p>
 
 ## 一問目
 Week3で作成したmatrixクラスを継承させて、imageクラスを作成してください。
