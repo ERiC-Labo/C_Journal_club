@@ -21,6 +21,7 @@
 ```
 になるようにクラスを定義するためのファイルnumber.cppファイルを作成してみてください。
 ### ②名前空間を追加する
+<p align="center"><a href="https://cpp-lang.sevendays-study.com/day1.html">参考ページ(名前空間)</a></p>
 <p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club/blob/main/Week3/rikuken_number.hpp">rikuken_number.hpp</a>を用いて</p>
 
 ```
