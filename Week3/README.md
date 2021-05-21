@@ -11,7 +11,7 @@
 
 ## 一問目
 ### ①簡単なクラスを作る
-##### number.hpp
+<p align="left"><a href="https://github.com/ERiC-Labo/C_Journal_club/blob/main/Week3/numbler.hpp">number.hpp</a></p>
 
 実行結果が
 ```
