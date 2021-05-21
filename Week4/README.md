@@ -6,6 +6,8 @@
 
 ## 一問目
 Week3で作成したmatrixクラスを継承させて、imageクラスを作成してください。
+<a href="https://github.com/crinkou/c_rinkou/blob/ishiyama/Week3/question2_lib.cpp>matrix_class.cpp</a>
+         
 
 ## 二問目
 作成した画像クラスのadd関数(足し算関数)の値域を0から255にしてください。
