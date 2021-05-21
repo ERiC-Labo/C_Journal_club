@@ -8,7 +8,7 @@
 Week3で作成したmatrixクラスを継承させて、imageクラスを作成してください。
 
 <a href="https://github.com/crinkou/c_rinkou/blob/ishiyama/Week3/question2_lib.h">matrix_class.h</a>
-&emsp　&emsp　&emsp
+&emsp;　&emsp;　&emsp;
 <a href="https://github.com/crinkou/c_rinkou/blob/ishiyama/Week3/question2_lib.cpp">matrix_class.cpp</a>
          
 
