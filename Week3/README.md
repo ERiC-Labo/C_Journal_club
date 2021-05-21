@@ -12,21 +12,7 @@
 ## 一問目
 ### ①簡単なクラスを作る
 ##### number.hpp
-```
-#ifndef NUMBER_
-#define NUMBER_
-#include <iostream>
 
-class Number_week3
-{
-public:
-    void get();
-    void set();
-private:
-    int num_;
-};
-#endif
-```
 実行結果が
 ```
 数字を入力してください
@@ -36,25 +22,7 @@ private:
 になるようにクラスを定義するためのファイルnumber.cppファイルを作成してみてください。
 ### ②名前空間を追加する
 ##### rikuken_number.hpp
-```
-#ifndef NUMBER_
-#define NUMBER_
-#include <iostream>
 
-namespace rikuken {
-    class Number_week3
-    {
-    public:
-        void get();
-        void set();
-    private:
-        int num_;
-    };
-}
-#endif
-```
-実行結果が
-```
 数字を入力してください
 342
 あなたが入力した数字は num = 342 です。
