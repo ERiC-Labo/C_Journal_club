@@ -5,6 +5,7 @@
 Week1からWeek6まであります。
 範囲はCからC++のクラスの基本的な使い方までです。
 <p align="center"><a href="http://cpp-lang.sevendays-study.com/day0.html">参考ページ(C++とは)</a></p>
+<p align="center"><a href="https://cpp-lang.sevendays-study.com/day1.html">参考ページ(C++のHello world)</a></p>
 ## atttention
 c輪講の目的は皆に基礎的なプログラミングを**自力**でやってもらうことです。
 なので、問題をネットで調べて、ネットで見つけたコードをコピペするのはやめて下さい。
