@@ -4,7 +4,8 @@ C言語の基本的な知識で解けるような問題です。
 
 ##attention
 vector型を使いましょう！
-<p align="center"><a href="https://cpp-lang.sevendays-study.com/ex-day4.html">参考のウェブサイト(STL, Vector)</a></p>
+<p align="center"><a href="http://c-lang.sevendays-study.com/day5.html">参考ページ(配列)</a></p>
+<p align="center"><a href="https://cpp-lang.sevendays-study.com/ex-day4.html">参考ページ(STL, Vector)</a></p>
 
 ## 一問目
 (ユーザーが入力した数の)任意の行列を作成できるようにコーディングしてください。
